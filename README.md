@@ -1,4 +1,4 @@
-# Lexicon — Word Sliding Puzzle
+# Lexicon — Word Sliding Puzzle (Mobile)
 
 ## Overview
 
@@ -105,6 +105,3 @@ The app includes tile locking (double-tap), limited tile removal (“pops”, lo
   - Long-press (hold) to pop a tile (consumes one pop).
 - **Failure:** When the board is full, no merges are possible, and no pops remain, the game is lost.
 
-
-# Run on Android
-yarn android
