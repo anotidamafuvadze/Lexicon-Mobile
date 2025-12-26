@@ -1,4 +1,4 @@
-# Lexicon — Word Sliding Puzzle (Mobile)
+# Lexicon (Mobile)
 
 ## Overview
 
